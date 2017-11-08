@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	width: 80%;
+	margin: auto;
+}
+
+nav {
+	background-color: #FB6826;
+}
+
+.main {
+	background-color: #F6F6F0;
+}
+
+ul {
+	padding-left: 0;
+}
+
+ul li {
+	display: inline;
+}
+
+h2, p.source {
+	display: inline-block;
+}
+
